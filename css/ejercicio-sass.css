@@ -53,6 +53,10 @@ main {
   color: #ffFffF;
 }
 
+.perfil__minibio {
+  margin: 0 auto;
+  padding-top: 20px;
+}
 .estadistica--perfil {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -106,9 +110,4 @@ main {
   text-transform: uppercase;
   font-size: 12px;
   font-family: "Oswald", sans-serif;
-}
-
-.perfil__minibio {
-  margin: 0 auto;
-  padding-top: 20px;
 }
